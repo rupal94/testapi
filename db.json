@@ -1,40 +1,22 @@
 {
-    "entityCodeList":[
+    "user":[
         {
             "firmName":"test1",
-            "entityCode":"T 1"
+            "entityCode":"T 1",
+            "description":"Hello this is test 1; that is second line of test 1"
         },
         {
-            "firmName":"test1",
-            "entityCode":"T 1"
-        }
+            "firmName":"test2",
+            "entityCode":"T 2",
+            "description":"Hello this is test 2; that is second line of test 2 ; third line of test 2"
 
-  
-    ],
-    "opsTradeBreakViewModels":[
-        {
-            "tradeDate":"2022-02-01",
-            "settleDate":"2022-08-02",
-            "entityCode":"test1ent",
-            "name":"test",
-            "houseQty":"1234",
-            "houseAmount":"12345",
-            "streetQty":"123",
-            "streetAmount":123,
-            "newBreakQty":23,
-            "netBreakAmt":123.34
         },
         {
-            "tradeDate":"2022-02-02",
-            "settleDate":"2022-08-04",
-            "entityCode":"test2ent",
-            "name":"test2",
-            "houseQty":"1234",
-            "houseAmount":"12345",
-            "streetQty":"123",
-            "streetAmount":123,
-            "newBreakQty":23,
-            "netBreakAmt":123.34
+            "firmName":"test3",
+            "entityCode":"T 3",
+            "description":"Hello this is test 3; that is second line of test 3 ; third line of test 3"
+
         }
     ]
+  
 }
