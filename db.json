@@ -1,4 +1,5 @@
-   [
+{
+    "products":[
         {
             "firmName":"test1",
             "entityCode":"T 1",
@@ -51,3 +52,5 @@
 
         }
     ]
+  
+}
